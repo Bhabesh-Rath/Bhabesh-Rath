@@ -11,7 +11,7 @@ edge hardware, zero cloud dependency, budget-first architecture.
 Claude → DeepSeek R1 → Qwen 3.5-9B, Q4_K_M quantized; GTX 1060, 32GB RAM target
 
 ## Recent: 
-Shipped an on-device inventory app with pruned MobileNet V4 Samll\
+Shipped an on-device inventory app with pruned MobileNet V4 Small\
 From model selection to APK in 3 days.
 
 ## Background: 
