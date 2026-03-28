@@ -16,8 +16,7 @@ From model selection to APK in 3 days.
 
 ## Background: 
 Comparison of Different Interpretability Methods with Professional Annotated Data for ViT Based Medical Image Classifier:\ 
-XAI research for medical imaging (ViT, 90% diagnostic accuracy),\
-Thesis availabel in JAIST Repository.
+XAI research for medical imaging (ViT, 90% diagnostic accuracy).
 
 📍 India | Open to APM / AI Product roles \
 📫 [LinkedIn](https://www.linkedin.com/in/bhabesh-rath-672206127/) | [Email](b.rath.1910231@gmail.com) 
