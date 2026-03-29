@@ -15,8 +15,12 @@ Shipped an on-device inventory app with pruned MobileNet V4 Small\
 From model selection to APK in 3 days.
 
 ## Background: 
-Comparison of Different Interpretability Methods with Professional Annotated Data for ViT Based Medical Image Classifier:\ 
-XAI research for medical imaging (ViT, 90% diagnostic accuracy).
+Comparison of Different Interpretability Methods with Professional Annotated Data for ViT Based Medical Image Classifier: \
+* XAI research for medical imaging
+* Finetuned ViT, 90% diagnostic accuracy
+* Performed benchmarking for six different XAI methods
+* Cross validated against interpretation data from six radiologists
+* Thesis available in JAIST reposiory
 
 📍 India | Open to APM / AI Product roles \
 📫 [LinkedIn](https://www.linkedin.com/in/bhabesh-rath-672206127/) | [Email](b.rath.1910231@gmail.com) 
