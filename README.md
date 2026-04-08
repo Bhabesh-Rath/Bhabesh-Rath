@@ -7,12 +7,20 @@ I design AI-powered systems under real-world constraints —
 edge hardware, zero cloud dependency, budget-first architecture.
 
 ## Current focus: 
-**Local multi-agent system using knowledge distillation:**\
-Claude → DeepSeek R1 → Qwen 3.5-9B, Q4_K_M quantized; GTX 1060, 32GB RAM target
+
+1. **XAI-SwissKnife:**\
+   An intuitive tookkit that auto-routes the correct explanation method to the right model and target hardware. 
+2. **Local multi-agent system using knowledge distillation:**\
+   Claude → DeepSeek R1 → Qwen 3.5-9B, Q4_K_M quantized; GTX 1060, 32GB RAM target
 
 ## Recent: 
-Shipped an on-device inventory app with pruned MobileNet V4 Small\
-From model selection to APK in 3 days.
+
+*  Shipped an on-device inventory app with pruned MobileNet V4 Small\
+   From model selection to APK in **3 days**.
+*  Built auto-quant, a benchmarking tool that helps quantize models based on type and level\
+   bringing quantization techniques into one web based UI and providing comparison for different\
+   levels along with Pareto Frontier graph to aid with best quantization level selection.\
+   Architecture formulation to Proof of Concept deployment in **4 days**. 
 
 ## Background: 
 Comparison of Different Interpretability Methods with Professional Annotated Data for ViT Based Medical Image Classifier: \
