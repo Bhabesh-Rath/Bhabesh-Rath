@@ -30,6 +30,14 @@ Comparison of Different Interpretability Methods with Professional Annotated Dat
 * Cross validated against interpretation data from six radiologists
 * Thesis available in JAIST reposiory
 
+## How I approach Product Development:
+
+1. Frame the problem with constraints (hardware, budget, timeline)
+2. Define success metrics upfront (latency <50ms, offline-first, privacy)
+3. Architect modular solutions with clear tradeoff documentation
+4. Validate with lightweight user testing or expert feedback
+5. Iterate based on Pareto-optimal decisions, not perfection
+
 📍 India | Open to APM / AI Product roles \
 📫 [LinkedIn](https://www.linkedin.com/in/bhabesh-rath-672206127/) | [Email](b.rath.1910231@gmail.com) 
 
